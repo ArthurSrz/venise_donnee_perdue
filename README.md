@@ -4,7 +4,7 @@ La Venise de la donnée (perdue) est un jeu interactif pour montrer à quel poin
 
 ## Il était une fois...
 
-Un honnête citoyen qui souhaite récupérer les données sur la localisation de panneaux dans le but de venir enrichier une cartographie collaborative. Comme la loi lui permet, il faut une demande à la collectivité, qui, au cours d'un échange courtois, lui propose de "sortir de chez soi et d'ouvrir les yeux"
+Un honnête citoyen qui souhaite récupérer les données sur la localisation de panneaux dans le but de venir enrichier une cartographie collaborative. Comme la loi lui permet, il fait une demande à la collectivité, qui, au cours d'un échange courtois, lui propose de "sortir de chez soi et d'ouvrir les yeux"
 
 <img width="544" alt="Screenshot 2023-09-29 at 03 26 08" src="https://github.com/ArthurSrz/venise_de_la_donnee/assets/55806298/49bb3154-c985-470d-87a9-cc58cc34fa70">
 
